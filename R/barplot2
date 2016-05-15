@@ -1,0 +1,7 @@
+name<-c("Tom","Bob","Herry")
+score<-c(78,94,89)
+age<-c(16,18,15)
+data<-data.frame(score,age)
+barplot(t(as.matrix(data)),beside=TRUE,col = c("red","blue"))
+axis(1,c(2,5,8),labels=name)
+legend("topright",legend=c("score","age"),fill=c("red","blue"))
