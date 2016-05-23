@@ -17,3 +17,6 @@ To plot the matrix of correlation
 ![correlationPlot](/images/correlationPlot.png)
 
 #### correlationPlot1.R
+To plot the matrix of correlation
+
+![correlationPlot1](/images/correlationPlot1.png)
