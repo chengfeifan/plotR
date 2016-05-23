@@ -10,3 +10,8 @@ To plot the simple barplot
 To plot the multi barplot
 
 ![barplot1](/images/Rplot.png)
+
+#### correlation plot
+To plot the matrix of correlation
+
+![correlationPlot](/images/correlationPlot.png)
