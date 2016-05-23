@@ -15,3 +15,5 @@ To plot the multi barplot
 To plot the matrix of correlation
 
 ![correlationPlot](/images/correlationPlot.png)
+
+#### correlationPlot1.R
