@@ -20,3 +20,8 @@ To plot the matrix of correlation
 To plot the matrix of correlation
 
 ![correlationPlot1](/images/correlationPlot1.png)
+
+#### flowchar1.R
+To plot the flow chart by diagrammeR, the syntax is `graphviz`
+
+![flowchar1](/images/flowchart1.png)
