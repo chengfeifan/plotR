@@ -27,6 +27,6 @@ To plot the flow chart by diagrammeR, the syntax is `graphviz`
 ![flowchar1](/images/flowchart1.PNG)
 
 #### flowchart.gv
-To plot the flow char by diagrammeR, when you save the file as the type of `.gv`, you can just previ=ew in `Rstudio`
+To plot the flow char by diagrammeR, when you save the file as the type of `.gv`, you can just preview in `Rstudio`
 
 ![flowchar1](/images/flowchart1.PNG)
