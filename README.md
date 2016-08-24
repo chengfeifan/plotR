@@ -30,3 +30,8 @@ To plot the flow chart by diagrammeR, the syntax is `graphviz`
 To plot the flow char by diagrammeR, when you save the file as the type of `.gv`, you can just preview in `Rstudio`
 
 ![flowchar1](/images/flowchart1.PNG)
+
+#### CompareGraph.R
+To compare the two lines
+
+![CompareGraph](/images/CompareGraph.PNG)
