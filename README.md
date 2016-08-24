@@ -34,4 +34,4 @@ To plot the flow char by diagrammeR, when you save the file as the type of `.gv`
 #### CompareGraph.R
 To compare the two lines
 
-![CompareGraph](/images/CompareGraph.PNG)
+![CompareGraph](/images/CompareGraph.png)
