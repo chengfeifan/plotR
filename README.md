@@ -35,3 +35,8 @@ To plot the flow char by diagrammeR, when you save the file as the type of `.gv`
 To compare the two lines
 
 ![CompareGraph](/images/CompareGraph.png)
+
+#### DiagrammeR
+DiagrammerR Package support the Graphviz, this is the test
+
+![DiagrammeR](/images/DiagrammerR_process.jpeg)
